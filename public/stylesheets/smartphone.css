@@ -9,3 +9,5 @@ footer, input       { font-size: large; }
 #fotoHeader {
     float: none;
 }
+
+.right {float: right;}
